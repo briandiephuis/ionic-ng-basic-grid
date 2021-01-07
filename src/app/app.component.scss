@@ -6,9 +6,9 @@
 
 .body-row {
   flex-grow: 1;
+  overflow-y: auto;
 }
 
 ion-col {
   border: 1px solid grey;
-  text-align: center;
 }
